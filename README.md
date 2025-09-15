@@ -1,3 +1,5 @@
+> ⚠️ **WARNING:** BIOS version **F36** still uses the same ACPI tables as **F35**, so you **do not need to update** your overridden DSDT after upgrading.
+
 # ACPI Fix for HP Omen 16-u0000sl
 
 HP ships their laptops with broken ACPI for whatever reason.
