@@ -8,6 +8,10 @@ Their BIOS probably doesn’t even know Linux exists and assumes everything is W
 If you’re one of the people responsible for this decision at HP, **this video is for you:**
 👉 [**Watch This.**](https://youtu.be/mOk3Ct4GD1M?t=22)
 
+> [!TIP]  
+> Need help or want to chat? Join our **official Discord server** for support, questions, or to show off your RGB setups:  
+> **[➡️ Click here to join Discord](https://discord.gg/8UwyAJ7sBH)**  
+
 ---
 
 ## 🛠️ How to Recreate This Yourself
